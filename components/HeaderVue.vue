@@ -1,7 +1,7 @@
 <template>
   <header class="h-[70vh] w-full">
     <div
-      class="w-full px-4 md:px-0 md:w-[60%] mx-auto flex flex-col items-center text-center mt-24"
+      class="w-full px-4 md:px-0 md:w-[90%] mx-auto flex flex-col items-center text-center mt-24"
     >
       <h1
         class="hidden md:flex text-[64px] text-[#F4F4F5] font-bold leading-[84px]"
