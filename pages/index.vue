@@ -9,6 +9,8 @@
     <Schedule />
     <Growth />
     <Pricing />
+    <CTA />
+    <FooterVue />
   </div>
 </template>
 
@@ -22,6 +24,8 @@ import AutomationFeature from "~/components/AutomationFeature.vue";
 import Schedule from "~/components/Schedule.vue";
 import Growth from "~/components/Growth.vue";
 import Pricing from "~/components/Pricing.vue";
+import CTA from "~/components/CTA.vue";
+import FooterVue from "~/components/FooterVue.vue";
 
 export default {
   name: "IndexPage",
@@ -35,6 +39,8 @@ export default {
     Schedule,
     Growth,
     Pricing,
+    CTA,
+    FooterVue,
   },
 };
 </script>

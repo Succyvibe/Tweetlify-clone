@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-[#2A303C] mt-[400px] lg:mt-0 py-48">
+  <section class="bg-[#2A303C] mt-[400px] lg:mt-0 py-24 lg:py-48">
     <div class="lg:max-w-[1216px] mx-auto px-4">
       <div class="w-full md:max-w-4xl text-center mb-16 md:mx-auto">
         <h2 class="text-[2.9rem] text-[#F4F4F5] font-[900] leading-[50px]">
@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 px-4 lg:px-0">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         <PriceCardFree />
         <PriceCardMonthly />
         <PriceCardYearly />
