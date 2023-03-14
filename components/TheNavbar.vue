@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <nav class="w-full h-16 bg-[#2A303C]">
+  <div class="h-[10vh]">
+    <nav class="w-full h-full bg-[#2A303C]">
       <div
         class="relative w-full px-2 md:px-0 md:pr-4 md:max-w-7xl mx-auto h-full flex justify-between items-center"
       >
