@@ -16,15 +16,21 @@
       <div class="w-full lg:w-[45%] px-10 md:px-0">
         <div class="w-full lg:w-[60%] mx-auto text-start">
           <h2 class="text-[2.8rem] text-[#F4F4F5] font-[900] leading-[50px]">
-            Engagement on steroids.
+            Twitter growth strategies.
           </h2>
 
           <p
             class="text-[#D1D5DB] text-[18px] lg:text-[24px] md:leading-[2rem] my-8"
           >
-            Our twitter engagement tool will help you automatically engage with
-            your audience, resulting in more leads and followers. Our solution
-            makes it easy to connect with potential customers.
+            Our strategy module can help you replicate the growth of other
+            accounts by following the same steps they took to get where they
+            are.
+          </p>
+          <p
+            class="text-[#D1D5DB] text-[18px] lg:text-[24px] md:leading-[2rem] my-8"
+          >
+            By following the exact steps laid out in the module, you can quickly
+            see the results.
           </p>
         </div>
       </div>

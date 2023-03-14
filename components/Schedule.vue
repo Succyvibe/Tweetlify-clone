@@ -5,21 +5,20 @@
     >
       <div class="w-full lg:w-[45%] px-10 md:px-0">
         <div class="w-full lg:w-[60%] mx-auto text-start">
-          <h2 class="text-[2.9rem] text-[#F4F4F5] font-[900] leading-[50px]">
-            5M+ Tweets, for inspiration.
+          <h2 class="text-[2.8rem] text-[#F4F4F5] font-[900] leading-[50px]">
+            Click, schedule, and forget.
           </h2>
 
           <p
             class="text-[#D1D5DB] text-[18px] md:text-[24px] leading-[2rem] relative lg:my-8"
           >
-            Looking to write tweets that will get you more followers and help
-            grow your audience? Look no further! Our twitter tool will help you
-            write tweets that are more likely to go viral.
+            Generate viral tweets for the next 30 days in minutes, schedule, and
+            enjoy your growth.
           </p>
           <p
             class="text-[#D1D5DB] text-[18px] md:text-[24px] leading-[2rem] relative lg:my-10"
           >
-            Get the exposure and followers you desire.
+            Our scheduling solution saves time and automates your Twitter.
           </p>
         </div>
       </div>
