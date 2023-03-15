@@ -47,7 +47,7 @@
       </p>
       <div class="flex justify-center">
         <button
-          class="flex gap-2 items-center bg-gradient-to-r from-indigo-600 via-violet-700 to-violet-800 py-4 px-12 rounded-lg text-xl text-white"
+          class="btnGlow relative flex gap-2 items-center bg-gradient-to-r from-indigo-600 via-violet-700 to-violet-800 py-4 px-12 rounded-lg text-xl text-white"
         >
           Use For Free
           <svg
