@@ -1,4 +1,10 @@
 export default {
+  target: "static",
+  ssr: false,
+
+  generate: {
+    fallback: true,
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "tweetlify",
@@ -12,13 +18,6 @@ export default {
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
-  },
-
-  target: "static",
-  ssr: false,
-
-  generate: {
-    fallback: true,
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
